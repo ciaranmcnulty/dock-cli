@@ -22,5 +22,11 @@
         "sha1": "77008f502835eec22c170b6344e7d6d3d7958fd1",
         "url": "http://sroze.github.io/dock-cli/downloads/dock-cli-1.0.2.phar",
         "version": "1.0.2"
+    },
+    {
+        "name": "dock-cli.phar",
+        "sha1": "0b11f997260da2d79b88f907ebf364875d7f1965",
+        "url": "http://sroze.github.io/dock-cli/downloads/dock-cli-1.0.3.phar",
+        "version": "1.0.3"
     }
 ]
